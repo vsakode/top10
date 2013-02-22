@@ -1,6 +1,6 @@
 These python script are written to get top 10 fields of any log file
 script 1 uses subprocess, which is ok to use for small log file.. wrote it just to compare..
-script 2 uses python dictioanry and can handle large log files
+script 2 uses python dictionary and can handle large log files
 
-scripts can be easily tweaked (using regex) to obtain any repating parameters in the log file
+scripts can be easily tweaked (using regex) to obtain any repeating parameters in the log file
  
